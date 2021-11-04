@@ -1,0 +1,4 @@
+Brute Force: {'4', '1', '2'}, 7
+Hill Climbing: {'1', '4', '7', '3'}, 7
+2 Approx: {'4', '1', '2'}, 7
+Simulated Annealing: {'4', '8', '2', '6', '5'}, 6

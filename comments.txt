@@ -1,0 +1,10 @@
+input file is named 'graph.txt' the format of the file is that the vertex names, which 
+are taken as strings, should be given in a comma separated list on the first line. Then,
+each edge should be placed on its own line as the first vertex's name a comma and then the
+second vertices name.
+
+The code requires the networkx package to run for the visualizations but the last for loop
+can be removed otherwise and still see the results in the text file.
+
+Note the graphs are unweighted, but all the code can be simply modified to allow weighted
+graphs.
